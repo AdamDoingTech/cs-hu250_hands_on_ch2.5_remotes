@@ -22,7 +22,7 @@ To find out more details about the remote, you can type:
 ```bash
 $ git remote show <remoteName>
 ```
-where `<remoteName>` should be substituted with the actual name of the remote obtained at `Step 2`.
+Where `<remoteName>` should be substituted with the actual name of the remote obtained at `Step 2`.
 
 ## Step 5
 Run the following command:
